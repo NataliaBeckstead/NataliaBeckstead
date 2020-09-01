@@ -32,22 +32,27 @@ const Natalia = {
       </td>
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>Visual Studio Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      
     </tr>
   </tbody>
 </table>
