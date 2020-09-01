@@ -1,4 +1,4 @@
-<h2> Hi, I'm Natalia Beckstead! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Natalia Beckstead! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 [![Linkedin: NataliaBeckstead](https://img.shields.io/badge/-Natalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-beckstead/)](https://www.linkedin.com/in/natalia-beckstead/)
 [![GitHub NataliaBeckstead](https://img.shields.io/github/followers/NataliaBeckstead?label=follow&style=social)](https://github.com/NataliaBeckstead)
