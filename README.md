@@ -13,6 +13,7 @@ const Natalia = {
   tools: [React, Redux, NodeJS, Sass, Less, Styled-Components, Jest, SQLite3, Knex]
 }
 ```
+
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
@@ -52,7 +53,6 @@ const Natalia = {
         <span>Visual Studio Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      
     </tr>
   </tbody>
 </table>
