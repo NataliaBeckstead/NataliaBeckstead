@@ -28,7 +28,7 @@ const Natalia = {
       </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
     </tr>
     <tr valign="top">
