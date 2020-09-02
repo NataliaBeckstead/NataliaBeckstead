@@ -10,7 +10,8 @@
 const Natalia = {
   pronouns: "she" | "her",
   code: [Javascript, , Python, HTML, CSS],
-  tools: [React, Redux, NodeJS, Sass, Less, Styled-Components, Jest, SQLite3, Knex]
+  tools: [React, Redux, NodeJS, Sass, Less, Styled-Components, Jest, SQLite3, Knex],
+  hobbies: [art photography, reading, hiking]
 }
 ```
 
