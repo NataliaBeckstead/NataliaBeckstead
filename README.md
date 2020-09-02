@@ -15,7 +15,7 @@ const Natalia = {
 }
 ```
 
-### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+### What I use
 
 <table>
   <tbody>
