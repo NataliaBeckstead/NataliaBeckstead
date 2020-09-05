@@ -58,4 +58,4 @@ const Natalia = {
   </tbody>
 </table>
 
-<em><b>I love connecting with people so if you want to say hi, I'll be happy to meet you!</b> :)</em>
+<em><b>I love connecting with people, so if you want to say hi, I'll be happy to meet you!</b> :)</em>
