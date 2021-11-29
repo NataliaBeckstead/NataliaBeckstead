@@ -9,7 +9,7 @@
 ```javascript
 const Natalia = {
   pronouns: "she" | "her",
-  code: [Javascript, , Python, HTML, CSS],
+  code: [Javascript, Python, HTML, CSS],
   tools: [React, React Native, Redux, React Queries, NodeJS, Sass, Less, Styled-Components, Jest, SQLite3, Knex],
   hobbies: [art photography, reading, hiking]
 }
