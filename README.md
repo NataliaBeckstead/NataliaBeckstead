@@ -25,6 +25,10 @@ const Natalia = {
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
+      <td width="25%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
@@ -40,6 +44,10 @@ const Natalia = {
     <tr valign="top">
       <td width="25%" align="center">
         <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React Native</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
