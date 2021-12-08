@@ -20,45 +20,45 @@ const Natalia = {
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>TypeScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>React Native</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Redux</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
