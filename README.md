@@ -54,6 +54,20 @@ const Natalia = {
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="20%" align="center">
+        <span>React Query</span><br><br><br>
+        <img height="64px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Microsoft Azure</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
+      </td>
+      <td width="20%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
