@@ -26,6 +26,7 @@ const Natalia = {
       <td width="20%" align="center">
         <span>TypeScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+        <br><br><br>
       </td>
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
@@ -44,6 +45,7 @@ const Natalia = {
       <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <br><br><br>
       </td>
       <td width="20%" align="center">
         <span>React Native</span><br><br><br>
@@ -66,6 +68,7 @@ const Natalia = {
       <td width="20%" align="center">
         <span>Microsoft Azure</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
+        <br><br><br>
       </td>
       <td width="20%" align="center">
         <span>Git</span><br><br><br>
