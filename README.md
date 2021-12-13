@@ -4,7 +4,7 @@
 [![GitHub NataliaBeckstead](https://img.shields.io/github/followers/NataliaBeckstead?label=follow&style=social)](https://github.com/NataliaBeckstead)
 
 
-### A little more about me...  
+### A little bit about me...  
 
 ```javascript
 const Natalia = {
