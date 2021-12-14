@@ -78,7 +78,7 @@ const Natalia = {
         <span>SQLite</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sqlite.svg">
       </td>
-      <td width="40%" align="center">
+      <td width="20%" align="center">
         <span>Postman</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
