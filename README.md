@@ -82,6 +82,10 @@ const Natalia = {
         <span>Postman</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
+      <td width="20%" align="center">
+        <span>Expo</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
@@ -96,10 +100,6 @@ const Natalia = {
       <td width="20%" align="center">
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Expo</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
       </td>
     </tr>
   </tbody>
