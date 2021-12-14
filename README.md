@@ -59,11 +59,16 @@ const Natalia = {
         <span>React Query</span><br><br><br>
         <img height="64px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg">
       </td>
+      <td width="20%" align="center">
+        <span>React Router</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react-router.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
         <span>NodeJS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <br><br><br>
       </td>
       <td width="20%" align="center">
         <span>PostgreSQL</span><br><br><br>
