@@ -90,7 +90,7 @@ const Natalia = {
     <tr valign="top">
       <td width="20%" align="center">
         <span>Microsoft Azure</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/330px-Microsoft_Azure.svg.png">
         <br><br><br>
       </td>
       <td width="20%" align="center">
